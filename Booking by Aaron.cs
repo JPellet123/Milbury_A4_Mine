@@ -86,13 +86,13 @@ namespace MilburyLab4
         private void radMexico_CheckedChanged(object sender, EventArgs e)
         {
             SetFlight();
-        
+        }
 
         private void btnBook_Click(object sender, EventArgs e)
         {
             //Declare constants for this instance
             const double LOCATIONS = 2150.50;
-            const double MEICO = 2300.79;
+            const double MEXICO = 2300.79;
             const double CASHBACK = .10;
             int data;
 
@@ -201,7 +201,10 @@ namespace MilburyLab4
                 //Discount appears for when their are either 1 person or 3
                 switch (people)
                 {
-                    case 1: case 3:
+                    case 1:
+                        break;
+                    case 3:
+                        break;
                         DisplayMsg("Special when booking single or triple." + "\n" + 
                             "BOGO Sepecial - Call 555-1212 to recieve another person free!","Limited time offer");
                 }

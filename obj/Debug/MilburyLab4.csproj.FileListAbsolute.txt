@@ -25,3 +25,14 @@ C:\Users\amilb\OneDrive\IT First year\Intro to Programming\Projects\Milbury_A4_M
 C:\Users\amilb\OneDrive\IT First year\Intro to Programming\Projects\Milbury_A4_Mine\obj\Debug\MilburyLab4.csproj.CoreCompileInputs.cache
 C:\Users\amilb\OneDrive\IT First year\Intro to Programming\Projects\Milbury_A4_Mine\obj\Debug\MilburyLab4.exe
 C:\Users\amilb\OneDrive\IT First year\Intro to Programming\Projects\Milbury_A4_Mine\obj\Debug\MilburyLab4.pdb
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\bin\Debug\MilburyLab4.exe.config
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\bin\Debug\MilburyLab4.exe
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\bin\Debug\MilburyLab4.pdb
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.csproj.AssemblyReference.cache
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.Form1.resources
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.Properties.Resources.resources
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.csproj.GenerateResource.cache
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.csproj.CoreCompileInputs.cache
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.exe
+C:\Users\jp40i\OneDrive\Desktop\Milbury_A4_Mine\obj\Debug\MilburyLab4.pdb
